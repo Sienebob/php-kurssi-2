@@ -16,3 +16,4 @@ foreach([[1, 1], [3, 7], [1024, 2048]] as $numbers)
         $calculator->add($numbers[0], $numbers[1])
     );
 }
+
